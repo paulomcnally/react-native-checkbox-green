@@ -59,8 +59,8 @@ var styles = StyleSheet.create({
     justifyContent:'center',
   },
   checkbox: {
-    width: 26,
-    height: 26,
+    width: 28,
+    height: 28,
   },
 });
 
