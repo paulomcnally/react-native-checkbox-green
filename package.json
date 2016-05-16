@@ -1,0 +1,27 @@
+{
+  "name": "react-native-checkbox-green",
+  "version": "0.0.1",
+  "description": "Checkbox green component for React native",
+  "main": "checkbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomcnally/react-native-checkbox-green.git"
+  },
+  "keywords": [
+    "react-native",
+    "checkbox",
+    "component",
+    "react-component",
+    "react-native",
+    "ios"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/react-native-checkbox-green/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/react-native-checkbox-green#readme"
+}
