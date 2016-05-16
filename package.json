@@ -1,6 +1,6 @@
 {
   "name": "react-native-checkbox-green",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Checkbox green component for React native",
   "main": "checkbox.js",
   "scripts": {
